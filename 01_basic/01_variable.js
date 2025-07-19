@@ -12,7 +12,8 @@ accountCity = "dvg"
 console.log(accountId);
 
 /*
-prefer not to use var because of the issue in block scop and function scop
+prefer not to use var because of the 
+issue in block scop and function scop
 */
 
 console.table([accountId,accountEmail,accountPassword,accountCity,accountState])
